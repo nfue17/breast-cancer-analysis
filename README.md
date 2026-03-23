@@ -89,3 +89,8 @@ It contains:
 ---
 
 ## Project Structure
+breast-cancer-analysis/
+│
+├── breast_cancer_analysis.ipynb
+├── README.md
+└── requirements.txt
